@@ -1,0 +1,1 @@
+print(str(bin(int(input('a = '), 2)+int(input('b = '), 2)))[2:])
